@@ -4,7 +4,7 @@
   "description": "This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.",
   "main": "main.js",
   "scripts": {
-    "css": "sass -w style.scss:style.css"
+    "css": "sass -w src/style.scss:dist/style.css"
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,23 @@
+{
+  "name": "flower",
+  "version": "1.0.0",
+  "description": "This repository contains examples and tutorials for the web technologies HTML, SCSS, and JS.",
+  "main": "main.js",
+  "scripts": {
+    "css": "sass -w style.scss:style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naveen-kumawat/Flower.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naveen-kumawat/Flower/issues"
+  },
+  "homepage": "https://github.com/naveen-kumawat/Flower#readme",
+  "dependencies": {
+    "sass": "^1.86.0"
+  }
+}
